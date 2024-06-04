@@ -10,6 +10,12 @@ sites:
   - name: Admin Portal
     url: https://app.be-brite.com/
     icon: https://app.be-brite.com/favicon.png
+  - name: Employee View
+    url: https://britehr.app/hoolibenefits/1
+    icon: https://app.be-brite.com/favicon.png
+  - name: API
+    url: https://api.be-brite.com/version
+    icon: https://app.be-brite.com/favicon.png
 
 assignees: # Users to assign downtime issues (optional)
   - troylelandshields
