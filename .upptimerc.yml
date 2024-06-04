@@ -26,12 +26,10 @@ status-website:
   baseUrl: /britestatuspage
   icon: https://app.be-brite.com/favicon.png
   favicon: https://app.be-brite.com/favicon.png
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
   logoUrl: https://getbritehr.com/wp-content/uploads/2020/05/britehr-logo@2x.png
   name: Brite Status page
-  introTitle: "**BriteHR** monitor and status page"
-  introMessage: "Below is a list of BriteHR's resources and their current status"
+  introTitle: "**Brite Benefits** monitor and status page"
+  introMessage: "Below is a list of Brite Benefits resources and their current status"
   themeUrl: https://be-brite.github.io/britestatuspage/brite-theme.css
   navbar:
     - title: Status
