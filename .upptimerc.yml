@@ -29,7 +29,7 @@ status-website:
   name: Brite Status page
   introTitle: "**Brite Benefits** monitor and status page"
   introMessage: "Below is a list of Brite Benefits resources and their current status"
-  themeUrl: https://be-brite.github.io/britestatuspage/brite-theme.css
+  themeUrl: https://status.britebenefits.com/brite-theme.css
   navbar:
     - title: Status
       href: /
