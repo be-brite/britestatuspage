@@ -31,7 +31,7 @@ status-website:
   name: Brite Status page
   introTitle: "**BriteHR** monitor and status page"
   introMessage: "Below is a list of BriteHR's resources and their current status"
-  theme: light
+  theme: ocean
   navbar:
     - title: Status
       href: /
