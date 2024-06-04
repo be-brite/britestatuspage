@@ -1,11 +1,11 @@
 :root {
-    --body-background-color: #E2DAFE;
+    --body-background-color: #ffffff;
     --body-text-color: #002626;
-    --card-background-color: #ffffff;
+    --card-background-color: #E2DAFE;
     --nav-background-color: #ffffff;
-    --nav-border-bottom-color: #d8e8e4;
+    --nav-border-bottom-color: #E2DAFE;
     --nav-current-border-bottom-color: #6D44FB;
-    --card-border-color: #d8e8e4;
+    --card-border-color: #E2DAFE;
     --down-border-left-color: #eb3b5a;
     --down-background-color: #ffd0d2;
     --degraded-border-left-color: #f7b731;
