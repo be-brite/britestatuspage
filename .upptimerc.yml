@@ -32,7 +32,7 @@ status-website:
   name: Brite Status page
   introTitle: "**BriteHR** monitor and status page"
   introMessage: "Below is a list of BriteHR's resources and their current status"
-  theme: https://be-brite.github.io/britestatuspage/themes/brite-theme.css
+  theme: https://be-brite.github.io/britestatuspage/brite-theme.css
   navbar:
     - title: Status
       href: /
