@@ -25,6 +25,7 @@ status-website:
   # cname: status.be-brite.com      
   baseUrl: /britestatuspage
   icon: https://app.be-brite.com/favicon.png
+  favicon: https://app.be-brite.com/favicon.png
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://getbritehr.com/wp-content/uploads/2020/05/britehr-logo@2x.png
