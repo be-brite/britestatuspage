@@ -30,7 +30,8 @@ status-website:
   logoUrl: https://getbritehr.com/wp-content/uploads/2020/05/britehr-logo@2x.png
   name: Brite Status page
   introTitle: "**BriteHR** monitor and status page"
-  introMessage: "Below is a list of BriteHR's resources and their current status "
+  introMessage: "Below is a list of BriteHR's resources and their current status"
+  theme: light
   navbar:
     - title: Status
       href: /
