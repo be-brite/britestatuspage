@@ -16,9 +16,16 @@ sites:
   - name: API
     url: https://api.be-brite.com/version
     icon: https://app.be-brite.com/favicon.png
-
+  - name: Postgrest API
+    url: https://api.be-brite.com/public/v1/bp/display_settings?id=eq.e2cf8f34-5301-4961-9bff-5f3d991066fc
+    headers:
+      - "BusinessID: e2cf8f34-5301-4961-9bff-5f3d991066fc"
+      
 assignees: # Users to assign downtime issues (optional)
   - troylelandshields
+  - 4dex
+  - tycrockett
+  - ahackneyy
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
