@@ -1,0 +1,19 @@
+name: Incident report
+description: Report a downtime or partial outage incident
+title: "[Incident] <service name> outage"
+labels: ["incident"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the issue
+      description: Which service is affected and what’s happening?
+      placeholder: e.g. API latency increased for some users
+    validations:
+      required: true
+  - type: input
+    id: affected-sites
+    attributes:
+      label: Affected sites (optional)
+      description: Comma-separated list of monitored URLs
+      placeholder: https://example.com
