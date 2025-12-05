@@ -4,18 +4,20 @@
     "url": "https://getbritehr.com/",
     "icon": "https://app.be-brite.com/favicon.png",
     "slug": "home-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 461,
-    "timeWeek": 440,
-    "timeMonth": 435,
-    "timeYear": 478,
-    "dailyMinutesDown": {}
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 410,
+    "timeDay": 443,
+    "timeWeek": 436,
+    "timeMonth": 434,
+    "timeYear": 477,
+    "dailyMinutesDown": {
+      "2025-12-05": 31
+    }
   },
   {
     "name": "Admin Portal",
